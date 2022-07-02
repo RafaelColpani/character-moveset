@@ -12,7 +12,7 @@
 > Shader Graphics: Standard 
 
 > Status: Under development
->>  Last Updated: [July]
+>>  Last Updated: [July/2022]
 
 ```
 
